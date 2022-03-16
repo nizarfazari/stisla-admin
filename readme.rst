@@ -3,7 +3,7 @@ What is this Application
 ###################
 
 Ini adalah projek pembuatan web admin yang di gunakan untuk mememnuhi tugas final project pemrograman web lanjut dengan memiliki ketentuan sebagai berikut
-<br> 1.	Menggunakan Framework CI
+ 1.	Menggunakan Framework CI
  2.	Tabel minimal 3 
  3.	Menggunakan template stisla (admin)
  4.	Ada CRUD yang mengandung upload file(gambar) dan ada validasi dari sisi CI

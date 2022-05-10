@@ -21,7 +21,8 @@ Dibuat Oleh :
 	5. Muhammad Nizar Fazarri  				20.12.1800
 
 ******
-Link Demo : https://mahasiswa-amikom.000webhostapp.com/
+ Link Demo : https://mahasiswa-amikom.000webhostapp.com/
+ Preview   : https://www.youtube.com/watch?v=MaQ0ROXgVoQ&t=297s
 ******
 
 

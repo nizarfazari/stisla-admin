@@ -13,6 +13,13 @@ Di dalam aplikasi ini telah menggunakan juga telah terdapat fitur sweealert java
 https://sweetalert2.github.io/
 
 
+Dibuat Oleh :
+Muhammad Izhar Aris Saputra	20.12.1789 
+Bryan ilyus tejakusuma      20.12.1759
+Fairdi Bimo Wicaksono       20 12.1795
+Muhammad Galih A          		20.12.1749
+Muhammad Nizar Fazarri  				20.12.1800
+
 ******
 Link Demo : https://mahasiswa-amikom.000webhostapp.com/
 ******

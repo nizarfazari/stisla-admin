@@ -20,9 +20,11 @@ Dibuat Oleh :
 	4. Muhammad Galih A          		20.12.1749
 	5. Muhammad Nizar Fazarri  				20.12.1800
 
-******
- Link Demo : https://mahasiswa-amikom.000webhostapp.com/
- Preview   : https://www.youtube.com/watch?v=MaQ0ROXgVoQ&t=297s
-******
+
+Demo 
+ Link-url => https://mahasiswa-amikom.000webhostapp.com/
+
+ Preview  => https://www.youtube.com/watch?v=MaQ0ROXgVoQ&t=297s
+
 
 

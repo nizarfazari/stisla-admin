@@ -14,11 +14,11 @@ https://sweetalert2.github.io/
 
 
 Dibuat Oleh :
-1. Muhammad Izhar Aris Saputra	20.12.1789 
-2. Bryan ilyus tejakusuma      20.12.1759
-3. Fairdi Bimo Wicaksono       20 12.1795
-4. Muhammad Galih A          		20.12.1749
-5. Muhammad Nizar Fazarri  				20.12.1800
+	1. Muhammad Izhar Aris Saputra	20.12.1789 
+	2. Bryan ilyus tejakusuma      20.12.1759
+	3. Fairdi Bimo Wicaksono       20 12.1795
+	4. Muhammad Galih A          		20.12.1749
+	5. Muhammad Nizar Fazarri  				20.12.1800
 
 ******
 Link Demo : https://mahasiswa-amikom.000webhostapp.com/

@@ -28,3 +28,5 @@ Demo
 
 
 
+username = admin
+password = admin
